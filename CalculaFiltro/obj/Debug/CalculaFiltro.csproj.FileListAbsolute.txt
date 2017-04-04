@@ -1,0 +1,6 @@
+c:\users\damou\onedrive\documentos\visual studio 2017\Projects\CalculaFiltro\CalculaFiltro\obj\Debug\CalculaFiltro.csprojResolveAssemblyReference.cache
+c:\users\damou\onedrive\documentos\visual studio 2017\Projects\CalculaFiltro\CalculaFiltro\bin\Debug\CalculaFiltro.exe.config
+c:\users\damou\onedrive\documentos\visual studio 2017\Projects\CalculaFiltro\CalculaFiltro\bin\Debug\CalculaFiltro.exe
+c:\users\damou\onedrive\documentos\visual studio 2017\Projects\CalculaFiltro\CalculaFiltro\bin\Debug\CalculaFiltro.pdb
+c:\users\damou\onedrive\documentos\visual studio 2017\Projects\CalculaFiltro\CalculaFiltro\obj\Debug\CalculaFiltro.exe
+c:\users\damou\onedrive\documentos\visual studio 2017\Projects\CalculaFiltro\CalculaFiltro\obj\Debug\CalculaFiltro.pdb
